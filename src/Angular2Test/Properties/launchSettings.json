@@ -1,0 +1,57 @@
+﻿{
+    "iisSettings": {
+        "windowsAuthentication": false,
+        "anonymousAuthentication": true,
+        "iisExpress": {
+            "applicationUrl": "http://localhost:51822/",
+            "sslPort": 0
+        }
+    },
+    "profiles": {
+        "IIS Express": {
+            "commandName": "IISExpress",
+            "launchBrowser": true,
+            "environmentVariables": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            }
+        },
+        "AspNetCoreAngular2": {
+            "commandName": "Project",
+            "launchBrowser": true,
+            "launchUrl": "http://localhost:5000",
+            "environmentVariables": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            }
+        }
+    }
+}
+
+
+//{
+//    "iisSettings": {
+//        "windowsAuthentication": false,
+//        "anonymousAuthentication": true,
+//        "iisExpress": {
+//            "applicationUrl": "http://localhost:50428/",
+//            "sslPort": 0
+//        }
+//    },
+//    "profiles": {
+//        "IIS Express": {
+//            "commandName": "IISExpress",
+//            "launchBrowser": true,
+//            "environmentVariables": {
+//                "ASPNETCORE_ENVIRONMENT": "Development"
+//            }
+//        },
+//        "Angular2Test": {
+//            "commandName": "Project",
+//            "launchBrowser": true,
+//            "environmentVariables": {
+//                "ASPNETCORE_ENVIRONMENT": "Development"
+//            },
+//            "applicationUrl": "http://localhost:50429"
+//        }
+//    }
+//}
+
